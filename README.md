@@ -48,7 +48,7 @@ Before you begin, ensure you have Node.js and npm are installed on your machine.
 
 1. Clone this repository to your local machine:
 ```bash
-https://github.com/Harshal2502/fyle-internship-challenge-23.git
+https://github.com/um500/Fyle-Frontend-development-challenge.git
 ```
 2. Navigate to the project directory:
 ```bash
