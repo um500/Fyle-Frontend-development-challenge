@@ -4,12 +4,9 @@ GitHub Repo Finder is an Angular application that allows users to search for Git
 
 
 ### Project Screenshots
-![screenshot1](https://github.com/Harshal2502/fyle-internship-challenge-23/assets/92778686/42a40611-3310-4daf-9468-2dca4328b70e)
+![screenshot1](https://github.com/um500/Fyle-Frontend-development-challenge/blob/master/1%20(2).png)
 
-![screensshot2](https://github.com/Harshal2502/fyle-internship-challenge-23/assets/92778686/02222540-3646-4100-a3b5-97894cb2a0c8)
-
-![screenshot3](https://github.com/Harshal2502/fyle-internship-challenge-23/assets/92778686/20fc10ce-833f-4339-9c59-ff900ef6102a)
-
+![screensshot2]()
 
 ## Introduction
 
